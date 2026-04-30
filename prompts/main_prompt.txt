@@ -1,1 +1,12 @@
+Generate a personalized meal plan based on:
 
+- Diet Type
+- Daily Calories
+- Number of Days
+- Meals per Day
+
+Include:
+- Breakfast, Lunch, Dinner
+- Approximate calories
+
+Keep it simple and easy to follow.
